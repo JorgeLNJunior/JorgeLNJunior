@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-:rocket: Sou estudante de Análise e Desenvolvimento de Sistemas no UNASP-SP e futuro desenvolvedor backend. Adoro o universo de desenvolvimento de software. Atualmente estou estudando TDD em Node.js.
+:rocket: Sou estudante de Análise e Desenvolvimento de Sistemas no UNASP-SP e desenvolvedor backend. Atualmente estudando TDD em Node.js.
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/JorgeLNJunior)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/jorgelnjunior/)
