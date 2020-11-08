@@ -13,7 +13,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/jorge_juni0r)](https://t.me/jorge_juni0r)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgelnjunior@gmail.com)](mailto:jorgelnjunior@gmail.com)
 
-## Um pouco do que conheço
+## Um pouco do que conheço / Estou estudando
 
 [![Jest Badge](https://img.shields.io/badge/-Jest-2e2e2e?style=flat-square&logo=Jest&logoColor=orange)](https://jestjs.io/)
 [![JS Badge](https://img.shields.io/badge/-Javascript-2e2e2e?style=flat-square&logo=Javascript&logoColor=yellow)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
