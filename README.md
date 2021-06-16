@@ -1,28 +1,31 @@
-<img align="right" width="300" height="300" src="https://i.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.webp">
 
-# Bem-vindo! 
+  
 
-## Eu sou Jorge :wave:
+                                                                                            
+<div align="center">
+  
+  <img width="540" height="100" src="https://i.ibb.co/cy8tCNx/ezgif-com-gif-maker.gif">
+  
+  # Bem-vindo! 
+  
+  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/JorgeLNJunior)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/jorgelnjunior/)
+  [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/jorge_juni0r)](https://t.me/jorge_juni0r)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgelnjunior@gmail.com)](mailto:jorgelnjunior@gmail.com)
+  
+:computer: Eu sou Jorge, desenvolvedor de software. Atualmente aprendendo Golang e Clean Code.
+  
+## Tecnologias
 
-## Sobre mim
-
-:rocket: Sou estudante de Análise e Desenvolvimento de Sistemas no UNASP-SP e desenvolvedor backend. Atualmente estudando TDD em Node.js.
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/JorgeLNJunior)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=link_do_seu_perfil_no_linkedin)](https://www.linkedin.com/in/jorgelnjunior/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/jorge_juni0r)](https://t.me/jorge_juni0r)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgelnjunior@gmail.com)](mailto:jorgelnjunior@gmail.com)
-
-## Um pouco do que conheço / Estou estudando
-
-[![Jest Badge](https://img.shields.io/badge/-Jest-2e2e2e?style=flat-square&logo=Jest&logoColor=orange)](https://jestjs.io/)
-[![JS Badge](https://img.shields.io/badge/-Javascript-2e2e2e?style=flat-square&logo=Javascript&logoColor=yellow)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![Node Badge](https://img.shields.io/badge/-Nodejs-2e2e2e?style=flat-square&logo=Node.js&logoColor=green)](https://nodejs.org/en/)
-[![Mysql Badge](https://img.shields.io/badge/-Mysql-2e2e2e?style=flat-square&logo=Mysql&logoColor=white)](https://www.mysql.com/)
-[![Vue Badge](https://img.shields.io/badge/-VueJs-2e2e2e?style=flat-square&logo=Vue.js&logoColor=#41B883)](https://vuejs.org/)
-[![Vuetify Badge](https://img.shields.io/badge/-Vuetify-2e2e2e?style=flat-square&logo=Vuetify&logoColor=42a5f5)](https://vuetifyjs.com/en/)
-[![Heroku Badge](https://img.shields.io/badge/-Heroku-2e2e2e?style=flat-square&logo=Heroku&logoColor=b266e8)](https://www.heroku.com/)
-
-
-
-- Obrigado pela visita.  
+[![Typescript Badge](https://img.shields.io/badge/-Typescript-blue?style=flat-square&logo=Typescript&logoColor=white)]()
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=javascript&logoColor=white)]()
+[![MongoDb Badge](https://img.shields.io/badge/-MongoDB-dgreen?style=flat-square&logo=mongodb&logoColor=white)]()
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)]()
+[![VueJs Badge](https://img.shields.io/badge/-Vue-dgreen?style=flat-square&logo=vue.js&logoColor=white)]()
+[![NestJs Badge](https://img.shields.io/badge/-Nest-red?style=flat-square&logo=nestjs&logoColor=white)]()
+[![Manjaro Badge](https://img.shields.io/badge/-Manjaro-dgreen?style=flat-square&logo=manjaro&logoColor=white)]()
+[![Docker Badge](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)]()
+  
+ ##### Obrigado pela visita.
+    
+</div>
