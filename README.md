@@ -13,7 +13,7 @@
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/jorge_juni0r)](https://t.me/jorge_juni0r)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgelnjunior@gmail.com)](mailto:jorgelnjunior@gmail.com)
   
-:computer: Eu sou Jorge, desenvolvedor de software. Atualmente aprendendo Clean Code e Rust.
+:computer: Eu sou Jorge, desenvolvedor de software. Atualmente aprendendo Clean Code e Golang.
   
 ## Tecnologias
 
