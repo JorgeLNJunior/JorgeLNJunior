@@ -13,6 +13,10 @@
   [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/jorge_juni0r)](https://t.me/JorgeLNJunior)
   [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgelnjunior@gmail.com)](mailto:jorgelnjunior@gmail.com)
   
+  [![Codewars Badge](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/JorgeLNJunior)
+  [![Lichess Badge](https://img.shields.io/badge/-Lichess-000?style=flat-square&logo=lichess&logoColor=white)](https://lichess.org/@/JorgeLNJunior)
+  [![GitLab Badge](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/JorgeLNJunior)
+  
 :computer: Eu sou Jorge, desenvolvedor de software. Atualmente aprendendo Clean Code.
   
 ## Tecnologias
