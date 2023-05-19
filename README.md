@@ -14,7 +14,7 @@
   [![Steam Badge](https://img.shields.io/badge/-Steam-c14438?style=flat-square&logo=steam&logoColor=white)](https://steamcommunity.com/id/JorgeLNJunior/)
   
   
-:computer: Eu sou Jorge, desenvolvedor de software. Atualmente aprendendo Clean Code.
+:computer: Eu sou Jorge, desenvolvedor de software. Atualmente aprendendo algoritimos e estruturas de dados com C++.
   
 ## Tecnologias
 
