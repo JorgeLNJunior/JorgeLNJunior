@@ -4,7 +4,7 @@
                                                                                             
 <div align="center">
   
-  <img height="270" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/cca1e136569841.5720ffd3c7679.gif">
+  <img width="540" height="100" src="https://i.ibb.co/cy8tCNx/ezgif-com-gif-maker.gif">
   
   # Bem-vindo! 
   
