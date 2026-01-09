@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="540" height="100" src="https://i.ibb.co/cy8tCNx/ezgif-com-gif-maker.gif">
+  <img width="540" height="100" src="./image.gif">
   
   ## Hi :wave: I'm Jorge!
     
@@ -27,5 +27,5 @@
 
   </br>
   
-  [![Status](https://github-readme-stats.vercel.app/api?username=JorgeLNJunior&show_icons=true&theme=transparent)]()
+  [![Status](https://github-readme-stats-gamma-red-33.vercel.app/api?show_icons=true&theme=transparent&username=JorgeLNJunior)]()
 </div>
